@@ -13,5 +13,5 @@ Here are some ideas to get you started:
       fb: /learnwithhussain 
       Email: shahhussainofficial@gmail.com.
 - 😄 Pronouns: shah hussain.
-- ⚡ Fun fact: Love coding, like to make it short and logical.
--->
+- ⚡ Hobbies: Love coding, like to make it short and logical.
+
