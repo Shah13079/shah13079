@@ -4,12 +4,10 @@
 **Shah13079/shah13079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-I'm Shah Hussain, I began figuring out how to program when I was 15 years of age. During the time I've been concentrating on both backend (PYTHON) and frontend (HTML, CSS) technologies. During the college I began finding out about web Scraping and all the more explicitly I've put the entirety of my enthusiasm on SCRAPY, this energy has developed on me and lead to my choice to work full time as a web scraper, the achievement I had kept me adapting new stuff on regular schedule.
-
-Currently working as data mining freelancing project . In this journey! I have done more than hundred projects as python scrapy developer for hundreds of satisfied clients across the world.
+I'm Shah Hussain, software engineer. During the college I began finding out about web Scraping and all the more explicitly I've put the entirety of my enthusiasm on SCRAPY, this energy has developed on me and lead to work part time as a web scraper, so far I have worked on more than 100 projects, and the success I experienced motivated me to continue learning new things on a regular basis.
+Now Working on contract-based projects as a free-lance Python developer, including web scraping, web automation, Django, and Rest APIS.
 
 contact: <br>
 Email at: **Shahhussainkhan803@gmail.com
       
-Whatsapp: **+92 308 94 31 390**
 
