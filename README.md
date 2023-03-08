@@ -8,6 +8,6 @@ I'm Shah Hussain, software engineer. During the college I began finding out abou
 Now Working on contract-based projects as a free-lance Python developer, including web scraping, web automation, Django, and Rest APIS.
 
 contact: <br>
-Email at: **Shahhussainkhan803@gmail.com
+Email at: Shahhussainkhan803@gmail.com
       
 
